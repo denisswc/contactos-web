@@ -1,0 +1,15 @@
+table {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+table td, table td, table tr{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+table td{
+    border-bottom: 1px solid #333;
+}
